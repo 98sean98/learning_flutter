@@ -1,0 +1,5 @@
+import 'package:simple_cli/simple_cli.dart';
+import 'package:test/test.dart';
+
+void main() {
+}

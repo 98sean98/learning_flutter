@@ -1,0 +1,6 @@
+name: learning_dart
+version: 1.0.0
+description: >-
+  to learn dart language
+environment:
+  sdk: '>=2.0.0 <3.0.0'
